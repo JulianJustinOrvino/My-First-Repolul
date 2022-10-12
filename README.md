@@ -4,5 +4,5 @@ NPM  :2106720903
 
 Class : KKI
 
-Hobby    : Ngoding
+Hobby    : tidur
 Hobby lain : main game
